@@ -12,13 +12,24 @@ import org.openqa.selenium.WebElement;
  * To change this template use File | Settings | File Templates.
  */
 public class UserPage extends TestBase {
+
+
     public boolean isEntered()
     {
-
         WebElement profile = getDriver().findElement(By.name("profile"));
         if(profile.getText().contains("Настя")) return true;
         else return false;
 
+    }
+
+    public boolean isOpenSettings()
+    {
+        WebElement profile = getDriver().findElement(By.name("profile"));
+        profile.click();
+        if(getDriver().findElement(By.className("profile-m-i-title"))!=null)
+            return true;
+        else
+            return false;
     }
 
 }

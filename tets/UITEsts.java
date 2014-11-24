@@ -41,5 +41,6 @@ public class UITEsts extends TestBase {
     public void isEnteredTest()
     {
         Assert.assertTrue(userPage.isEntered());
+        Assert.assertTrue(userPage.isOpenSettings());
     }
 }
