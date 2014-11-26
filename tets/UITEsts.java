@@ -32,15 +32,22 @@ public class UITEsts extends TestBase {
     @Test(dependsOnMethods = {"goToRozetkaTest"}, enabled = true)
     public void enterAsTest()
     {
-        startPage.logIn();
-        //startPage.enterAs(TestData.socialNetType);
+        startPage.logIn(TestData.email, TestData.password);
     }
+
+   /* @Test(dependsOnMethods = {"goToRozetkaTest"}, enabled = true)
+    public void enterSocNetTest()
+    {
+        startPage.enterAs(TestData.socialNetType);
+        socNetPage.signIn(TestData.email,TestData.password);
+
+    }  */
 
 
     @Test(dependsOnMethods = {"enterAsTest"}, enabled = true)
     public void isEnteredTest()
     {
-        Assert.assertTrue(userPage.isEntered());
+        Assert.assertTrue(userPage.isEntered(TestData.userName));
         Assert.assertTrue(userPage.isOpenSettings());
     }
 }

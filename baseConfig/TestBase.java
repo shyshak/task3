@@ -8,11 +8,10 @@ import org.testng.annotations.AfterSuite;
 import java.util.concurrent.TimeUnit;
 
 public class TestBase {
-    protected static WebDriver webDriver;
-    protected static WebDriverWait wait;
+    protected static WebDriver webDriver = new FirefoxDriver();
+
     @BeforeSuite
     public void setUp() {
-        webDriver = new FirefoxDriver();
         webDriver.manage().window().maximize();
         webDriver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
     }

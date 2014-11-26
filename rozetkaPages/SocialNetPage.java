@@ -13,14 +13,17 @@ import tets.TestData;
 //for logining to rozetka as a vk or fb user
 public class SocialNetPage extends TestBase {
 
-    public void signIn()
+    public void signIn(String userEmail, String userPassword)
     {
+        //sends user email to userEmail field
         WebElement emailField = getDriver().findElement(By.name("email"));
-        emailField.sendKeys(TestData.email);
+        emailField.sendKeys(userEmail);
 
+        //sends user password to userPassword field
         WebElement passwordField = getDriver().findElement(By.name("pass"));
-        passwordField.sendKeys(TestData.password);
+        passwordField.sendKeys(userPassword);
 
+        //click on "Войти" button
         getDriver().findElement(By.cssSelector("popup_login_btn> #install_allow")).click();
     }
 

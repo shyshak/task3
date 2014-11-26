@@ -14,10 +14,10 @@ import org.openqa.selenium.WebElement;
 public class UserPage extends TestBase {
 
 
-    public boolean isEntered()
+    public boolean isEntered(String name)
     {
         WebElement profile = getDriver().findElement(By.name("profile"));
-        if(profile.getText().contains("Настя")) return true;
+        if(profile.getText().contains(name)) return true;
         else return false;
 
     }

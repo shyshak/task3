@@ -4,20 +4,20 @@
     <list default="true" id="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" name="Default" comment="" />
     <ignored path="untitled3.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/TestBase.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416656271148" ignored="false" />
+    <file path="/TestBase.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1417032556494" ignored="false" />
     <file path="/fragment.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416590426319" ignored="false" />
     <file path="/Credentials.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416593462521" ignored="false" />
-    <file path="/StartPage.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416839868350" ignored="false" />
+    <file path="/StartPage.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1417031862096" ignored="false" />
     <file path="/UITest.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416654846671" ignored="false" />
     <file path="$PROJECT_DIR$/../my_rozetka/tests/UITests.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416944631594" ignored="false" />
     <file path="/UITests.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416944631030" ignored="false" />
     <file path="/Dummy.txt" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416864071717" ignored="false" />
-    <file path="/SocialNetPage.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416747077389" ignored="false" />
-    <file path="/UserPage.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416842732502" ignored="false" />
-    <file path="/TestData.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416942816481" ignored="false" />
+    <file path="/SocialNetPage.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1417032106849" ignored="false" />
+    <file path="/UserPage.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1417032150796" ignored="false" />
+    <file path="/TestData.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1417032232155" ignored="false" />
     <file path="/pom.xml" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416653864477" ignored="false" />
     <file path="/a.dummy" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416658794749" ignored="false" />
-    <file path="/UITEsts.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416842351389" ignored="false" />
+    <file path="/UITEsts.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1417032240772" ignored="false" />
     <file path="$PROJECT_DIR$/../training/pom.xml" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416743123794" ignored="false" />
     <file path="$PROJECT_DIR$/../training/windowTest/WindowControl.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416743377122" ignored="false" />
     <file path="$PROJECT_DIR$/../rozetka-project/rozetka-project/src/test/java/ui_tests/SmartphoneSearchTest.java" changelist="5b49eb44-3ce1-4e10-8096-ebc979e7bba5" time="1416743319950" ignored="false" />
@@ -93,19 +93,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UITEsts.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="UITEsts.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tets/UITEsts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="22" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SEGridTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tets/SEGridTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="64" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
+            <state line="46" column="7" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.47129187">
               <folding />
             </state>
           </provider>
@@ -114,7 +105,7 @@
       <file leaf-file-name="UserPage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rozetkaPages/UserPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="28" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0">
+            <state line="18" column="36" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -123,16 +114,25 @@
       <file leaf-file-name="SocialNetPage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rozetkaPages/SocialNetPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="38" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0">
+            <state line="25" column="25" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartPage.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="StartPage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rozetkaPages/StartPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="7" selection-start="420" selection-end="559" vertical-scroll-proportion="0.6702509">
+            <state line="19" column="13" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestData.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tets/TestData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="48" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -141,7 +141,7 @@
       <file leaf-file-name="TestBase.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baseConfig/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="611" selection-end="752" vertical-scroll-proportion="0.0">
+            <state line="19" column="16" selection-start="633" selection-end="633" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -162,17 +162,17 @@
         <option value="$PROJECT_DIR$/rozetkaTests/TestData.java" />
         <option value="$PROJECT_DIR$/rozetkaTests/UITests.java" />
         <option value="$PROJECT_DIR$/tests/TestData.java" />
-        <option value="$PROJECT_DIR$/tets/TestData.java" />
         <option value="$PROJECT_DIR$/tests/UITest.java" />
-        <option value="$PROJECT_DIR$/baseConfig/TestBase.java" />
-        <option value="$PROJECT_DIR$/rozetkaPages/SocialNetPage.java" />
-        <option value="$PROJECT_DIR$/rozetkaPages/StartPage.java" />
-        <option value="$PROJECT_DIR$/tets/UITEsts.java" />
-        <option value="$PROJECT_DIR$/rozetkaPages/UserPage.java" />
         <option value="$PROJECT_DIR$/src/main/resources/selenium-node-win-ch.json" />
         <option value="$PROJECT_DIR$/src/main/resources/conf.xml" />
         <option value="$PROJECT_DIR$/tets/conf.xml" />
         <option value="$PROJECT_DIR$/tets/SEGridTest.java" />
+        <option value="$PROJECT_DIR$/rozetkaPages/StartPage.java" />
+        <option value="$PROJECT_DIR$/rozetkaPages/SocialNetPage.java" />
+        <option value="$PROJECT_DIR$/rozetkaPages/UserPage.java" />
+        <option value="$PROJECT_DIR$/tets/TestData.java" />
+        <option value="$PROJECT_DIR$/tets/UITEsts.java" />
+        <option value="$PROJECT_DIR$/baseConfig/TestBase.java" />
       </list>
     </option>
   </component>
@@ -255,8 +255,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -286,60 +286,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="tets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rozetkaLogIn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rozetkaLogIn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rozetkaLogIn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -387,11 +333,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Nastya/IdeaProjects/rozetkaLogIn/tets/conf.xml">
+  <component name="RunManager" selected="TestNG.UITEsts.isEnteredTest">
     <configuration default="false" name="UITEsts" type="TestNG" factoryName="TestNG" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -603,6 +549,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -629,19 +588,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -689,10 +635,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Nastya/IdeaProjects/rozetkaLogIn/tets/conf.xml" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.UITEsts.isEnteredTest" />
         <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Nastya/IdeaProjects/rozetkaLogIn/tets/conf.xml" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.SEGridTest" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.UITEsts.isEnteredTest" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Nastya/IdeaProjects/rozetkaLogIn/tets/conf.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.SEGridTest" />
         <item index="4" class="java.lang.String" itemvalue="TestNG.UITEsts.signInTest" />
       </list>
     </recent_temporary>
@@ -712,7 +658,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -725,17 +671,17 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16439395" sideWeight="0.5496575" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16666667" sideWeight="0.760274" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5496575" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45034248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.760274" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23972602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -837,65 +783,44 @@
         <state line="12" column="0" selection-start="483" selection-end="483" vertical-scroll-proportion="-4.76" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rozetkaPages/UserPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="28" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/conf.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="55" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tets/conf.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="44" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/selenium-node-win-ch.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="47" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tets/SEGridTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="64" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baseConfig/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="611" selection-end="752" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rozetkaPages/SocialNetPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="38" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0">
+        <state line="25" column="25" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tets/UITEsts.java">
+    <entry file="file://$PROJECT_DIR$/rozetkaPages/UserPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="22" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
+        <state line="18" column="36" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rozetkaPages/StartPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="420" selection-end="559" vertical-scroll-proportion="0.6702509">
+        <state line="19" column="13" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseConfig/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="16" selection-start="633" selection-end="633" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tets/TestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="48" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tets/UITEsts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="7" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.47129187">
           <folding />
         </state>
       </provider>
