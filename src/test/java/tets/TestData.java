@@ -11,8 +11,8 @@ public class TestData {
     public static final String rozetkaURL = "http://rozetka.com.ua/";
     public static final String socialNetType = "vk";
     //your username and password in Rozetka or in SocNet
-    public static final String email = "";
-    public static final String password = "";
+    public static final String email = "+380985266925";
+    public static final String password = "iwillbeacat92";
     // your username in Rozetka
     public static final String userName = "Anastasia Shyshak";
 }

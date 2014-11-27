@@ -1,13 +1,8 @@
 package rozetkaPages;
 
-import baseConfig.TestBase;
+import rozetkaLogIn.baseConfig.TestBase;
 import org.openqa.selenium.By;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import tets.TestData;
 
 //Page of social net window where you enter credentials
 //for logining to rozetka as a vk or fb user

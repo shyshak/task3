@@ -1,9 +1,8 @@
 package rozetkaPages;
 
-import baseConfig.TestBase;
+import rozetkaLogIn.baseConfig.TestBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import tets.TestData;
 
 /**
  * Created with IntelliJ IDEA.

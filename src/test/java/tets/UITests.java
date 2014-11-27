@@ -1,7 +1,6 @@
 package tets;
 
-import baseConfig.TestBase;
-import org.openqa.selenium.By;
+import rozetkaLogIn.baseConfig.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import rozetkaPages.SocialNetPage;
@@ -15,7 +14,7 @@ import rozetkaPages.UserPage;
  * Time: 13:18
  * To change this template use File | Settings | File Templates.
  */
-public class UITEsts extends TestBase {
+public class UITests extends TestBase {
     StartPage startPage = new StartPage();
     SocialNetPage socNetPage = new SocialNetPage();
     UserPage userPage = new UserPage();
