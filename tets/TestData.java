@@ -10,9 +10,9 @@ package tets;
 public class TestData {
     public static final String rozetkaURL = "http://rozetka.com.ua/";
     public static final String socialNetType = "vk";
-    //your username and password in Rozetka
+    //your username and password in Rozetka or in SocNet
     public static final String email = "";
     public static final String password = "";
     // your username in Rozetka
-    public static final String userName = "";
+    public static final String userName = "Anastasia Shyshak";
 }

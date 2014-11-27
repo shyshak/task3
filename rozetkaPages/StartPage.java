@@ -51,14 +51,17 @@ public class StartPage extends TestBase {
     // log in Rozetka using social network credentials
     public void enterAs(String socialNetType)
     {
+        getDriver().findElement(By.name("signin")).click();
 
         if (socialNetType.equals("vk"))
         {
-            getDriver().findElement(By.linkText("Вконтакте")).click();
+            getDriver().findElement(By.xpath("//a[contains(text(),'Вконтакте')]")).click();
         }
         if(socialNetType.equals("fb"))
         {
             getDriver().findElement(By.linkText("Facebook")).click();
         }
+
+
     }
 }

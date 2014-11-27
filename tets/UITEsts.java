@@ -1,6 +1,7 @@
 package tets;
 
 import baseConfig.TestBase;
+import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import rozetkaPages.SocialNetPage;
@@ -29,22 +30,34 @@ public class UITEsts extends TestBase {
 
     }
 
-    @Test(dependsOnMethods = {"goToRozetkaTest"}, enabled = true)
+   /* @Test(dependsOnMethods = {"goToRozetkaTest"}, enabled = true)
     public void enterAsTest()
     {
         startPage.logIn(TestData.email, TestData.password);
-    }
-
-   /* @Test(dependsOnMethods = {"goToRozetkaTest"}, enabled = true)
-    public void enterSocNetTest()
-    {
-        startPage.enterAs(TestData.socialNetType);
-        socNetPage.signIn(TestData.email,TestData.password);
-
     }  */
 
+    @Test(dependsOnMethods = {"goToRozetkaTest"}, enabled = true)
+    public void enterSocNetTest() {
+        //to remember main window of the browser
+        String winHandleBefore = getDriver().getWindowHandle();
+        startPage.enterAs(TestData.socialNetType);
 
-    @Test(dependsOnMethods = {"enterAsTest"}, enabled = true)
+        for(String winHandle : getDriver().getWindowHandles()){
+            getDriver().switchTo().window(winHandle);
+        }
+
+        socNetPage.signIn(TestData.email,TestData.password);
+        for(String winHandle : getDriver().getWindowHandles()){
+            getDriver().switchTo().window(winHandle);
+        }
+
+        //Switch back to original browser (first window)
+        getDriver().switchTo().window(winHandleBefore);
+
+    }
+
+
+    @Test(dependsOnMethods = {"enterSocNetTest"}, enabled = true)
     public void isEnteredTest()
     {
         Assert.assertTrue(userPage.isEntered(TestData.userName));
